@@ -10,7 +10,7 @@
 - Telegram: @Psylockeeng  
 - VK: https://vk.com/dmitry.dryga
 - Резюме (HH.ru): https://stary-oskol.hh.ru/resume/f9f7d1a6ff100c717b0039ed1f3444636b5665
-- Почта 
+- Почта drygadmitrii@gmail.com
 ---
 
 ## Почему QA — это моё
